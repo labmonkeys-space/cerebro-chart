@@ -1,0 +1,17 @@
+name: cerebro
+version: 1.0.0
+appVersion: 0.9.4
+apiVersion: v2
+description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
+home: https://github.com/labmonkeys-space/cerebro-chart.git
+icon: https://raw.githubusercontent.com/lmenezes/cerebro/main/public/img/logo.png
+keywords:
+  - cerebro
+  - elasticsearch
+  - admin
+sources:
+  - https://github.com/labmonkeys-space/cerebro-chart.git
+  - https://github.com/labmonkeys-space/app-container/tree/main/cerebro
+maintainers:
+  - name: Ronny Trommer
+    email: ronny@no42.org
