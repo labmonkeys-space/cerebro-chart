@@ -13,7 +13,7 @@ Optionally you can use cerebro provided auth by uploading a Secret with the need
 
 ## Installing the Chart
 
-Please refer to https://artifacthub.io/packages/helm/labmonkeys-charts/cerebro?modal=install.
+Please refer to [install instructions](https://artifacthub.io/packages/helm/labmonkeys-charts/cerebro?modal=install).
 You can use the `-f values.yaml` argument to customize the installation to your needs.
 The chart is installed by default in the `default` namespace.
 Please refer to values.yaml or [Artifact Hub UI](https://artifacthub.io/packages/helm/labmonkeys-charts/cerebro?modal=values-schema) to see parameters and their default values.

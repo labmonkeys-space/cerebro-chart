@@ -3,9 +3,9 @@ entries:
   cerebro:
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2022-02-09T23:30:01.863719+01:00"
+    created: "2022-02-10T00:18:22.34575+01:00"
     description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
-    digest: 5e6e7ecb80ef4c80a69a8b45a45a923029b29a098e36839af058f4a02908cc62
+    digest: d331e1c76ea0f593d27862a6cb5ccd0e6357b25431123fbc7b58b51106cc7a73
     home: https://github.com/labmonkeys-space/cerebro-chart.git
     icon: https://raw.githubusercontent.com/lmenezes/cerebro/main/public/img/logo.png
     keywords:
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://labmonkeys-space.github.io/helm-charts/repo/cerebro-1.0.0.tgz
     version: 1.0.0
-generated: "2022-02-09T23:30:01.862881+01:00"
+generated: "2022-02-10T00:18:22.344697+01:00"
