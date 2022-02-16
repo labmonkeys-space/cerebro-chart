@@ -3,7 +3,28 @@ entries:
   cerebro:
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2022-02-10T00:18:22.34575+01:00"
+    created: "2022-02-16T14:44:07.672471+01:00"
+    description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
+    digest: 3a14585a8946b4676e37ac1b94515e7f892a8fd5dbdd662b61216367c479d78b
+    home: https://github.com/labmonkeys-space/cerebro-chart.git
+    icon: https://raw.githubusercontent.com/lmenezes/cerebro/main/public/img/logo.png
+    keywords:
+    - cerebro
+    - elasticsearch
+    - admin
+    maintainers:
+    - email: ronny@no42.org
+      name: Ronny Trommer
+    name: cerebro
+    sources:
+    - https://github.com/labmonkeys-space/cerebro-chart.git
+    - https://github.com/labmonkeys-space/app-container/tree/main/cerebro
+    urls:
+    - https://labmonkeys-space.github.io/helm-charts/repo/cerebro-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 0.9.4
+    created: "2022-02-16T14:44:07.671846+01:00"
     description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
     digest: d331e1c76ea0f593d27862a6cb5ccd0e6357b25431123fbc7b58b51106cc7a73
     home: https://github.com/labmonkeys-space/cerebro-chart.git
@@ -22,4 +43,4 @@ entries:
     urls:
     - https://labmonkeys-space.github.io/helm-charts/repo/cerebro-1.0.0.tgz
     version: 1.0.0
-generated: "2022-02-10T00:18:22.344697+01:00"
+generated: "2022-02-16T14:44:07.670965+01:00"
