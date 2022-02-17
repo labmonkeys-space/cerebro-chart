@@ -3,7 +3,7 @@ entries:
   cerebro:
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2022-02-16T14:44:07.672471+01:00"
+    created: "2022-02-17T21:01:27.569321+01:00"
     description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
     digest: 3a14585a8946b4676e37ac1b94515e7f892a8fd5dbdd662b61216367c479d78b
     home: https://github.com/labmonkeys-space/cerebro-chart.git
@@ -24,7 +24,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2022-02-16T14:44:07.671846+01:00"
+    created: "2022-02-17T21:01:27.56799+01:00"
     description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
     digest: d331e1c76ea0f593d27862a6cb5ccd0e6357b25431123fbc7b58b51106cc7a73
     home: https://github.com/labmonkeys-space/cerebro-chart.git
@@ -43,4 +43,15 @@ entries:
     urls:
     - https://labmonkeys-space.github.io/helm-charts/repo/cerebro-1.0.0.tgz
     version: 1.0.0
-generated: "2022-02-16T14:44:07.670965+01:00"
+  code-server:
+  - apiVersion: v2
+    appVersion: 4.0.2
+    created: "2022-02-17T21:01:27.569929+01:00"
+    description: A Helm chart for coder/code-server
+    digest: bbdd0ad38c6b1ea7e006de2e40d8086bcdadd9b5b2c777f9da1a4df83ca06ce9
+    name: code-server
+    type: application
+    urls:
+    - https://labmonkeys-space.github.io/helm-charts/repo/code-server-2.1.0.tgz
+    version: 2.1.0
+generated: "2022-02-17T21:01:27.56536+01:00"
