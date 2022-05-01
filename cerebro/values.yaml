@@ -5,7 +5,7 @@ image:
   repository: quay.io/labmonkeys/cerebro
   # Note: when updating the version, ensure `config` and the ConfigMap are kept
   # in sync with the default configuration of the upstream image
-  tag: 0.9.4.b276
+  tag: 0.9.4.b417
   pullPolicy: IfNotPresent
   # pullSecrets:
 
