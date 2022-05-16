@@ -3,7 +3,7 @@ entries:
   cerebro:
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2022-05-01T17:12:05.38871+02:00"
+    created: "2022-05-16T13:39:49.039229+02:00"
     description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
     digest: 368b0b569e5fec1737f07da1e3860b673ea38c25fdcde3a0b2e90f02c0691049
     home: https://github.com/labmonkeys-space/cerebro-chart.git
@@ -24,7 +24,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2022-05-01T17:12:05.388234+02:00"
+    created: "2022-05-16T13:39:49.038814+02:00"
     description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
     digest: 57481e2a7bc0bad70cb55d86942d87e41b54d503727099ddacf00806cb6d80f2
     home: https://github.com/labmonkeys-space/cerebro-chart.git
@@ -45,7 +45,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2022-05-01T17:12:05.387461+02:00"
+    created: "2022-05-16T13:39:49.038368+02:00"
     description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
     digest: 3a14585a8946b4676e37ac1b94515e7f892a8fd5dbdd662b61216367c479d78b
     home: https://github.com/labmonkeys-space/cerebro-chart.git
@@ -66,7 +66,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2022-05-01T17:12:05.38702+02:00"
+    created: "2022-05-16T13:39:49.037892+02:00"
     description: A Helm chart for Cerebro - a web admin tool to manage ElasticSearch
     digest: d331e1c76ea0f593d27862a6cb5ccd0e6357b25431123fbc7b58b51106cc7a73
     home: https://github.com/labmonkeys-space/cerebro-chart.git
@@ -88,7 +88,7 @@ entries:
   code-server:
   - apiVersion: v2
     appVersion: 4.0.2
-    created: "2022-05-01T17:12:05.389122+02:00"
+    created: "2022-05-16T13:39:49.039633+02:00"
     description: A Helm chart for coder/code-server
     digest: bbdd0ad38c6b1ea7e006de2e40d8086bcdadd9b5b2c777f9da1a4df83ca06ce9
     name: code-server
@@ -96,4 +96,25 @@ entries:
     urls:
     - https://labmonkeys-space.github.io/helm-charts/repo/code-server-2.1.0.tgz
     version: 2.1.0
-generated: "2022-05-01T17:12:05.386401+02:00"
+  thelounge:
+  - apiVersion: v2
+    appVersion: 4.3.1
+    created: "2022-05-16T13:39:49.040217+02:00"
+    description: Modern web IRC client designed for self-hosting
+    digest: b429b03fbd51ce0ef6629721c320584b5cb32767b111745554123c605b65148e
+    home: https://thelounge.chat/
+    icon: https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-grey-bg-512x512px.png
+    keywords:
+    - thelounge
+    - irc
+    maintainers:
+    - email: ronny@no42.org
+      name: Ronny Trommer
+    name: thelounge
+    sources:
+    - https://github.com/labmonkeys-space/helm-charts.git
+    - https://github.com/labmonkeys-space/app-container/tree/main/thelounge
+    urls:
+    - https://labmonkeys-space.github.io/helm-charts/repo/thelounge-4.3.1.tgz
+    version: 4.3.1
+generated: "2022-05-16T13:39:49.037193+02:00"

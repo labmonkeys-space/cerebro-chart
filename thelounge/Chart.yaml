@@ -1,0 +1,16 @@
+name: thelounge
+version: 4.3.1
+appVersion: 4.3.1
+apiVersion: v2
+description: Modern web IRC client designed for self-hosting
+home: https://thelounge.chat/
+icon: https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-grey-bg-512x512px.png
+keywords:
+  - thelounge
+  - irc
+sources:
+  - https://github.com/labmonkeys-space/helm-charts.git
+  - https://github.com/labmonkeys-space/app-container/tree/main/thelounge
+maintainers:
+  - name: Ronny Trommer
+    email: ronny@no42.org
